@@ -6,13 +6,13 @@
 ## Como rodar o projeto?
 
 * Clone esse repositório.
-* Crie um virtualenv com Python 3.
+* Crie um virtualenv com Python.
 * Ative o virtualenv.
 * Instale as dependencias.
 
 ```bash
 
-git clone 
+git clone https://github.com/LukeRobs/XML-to-Excel.git
 python -m venv env
 source env/bin/activate
 pip install -r requirements.txt
